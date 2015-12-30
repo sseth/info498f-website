@@ -1,0 +1,40 @@
+body {
+	font-family:georgia !important;
+}
+
+footer {
+	position:fixed;
+	background:white;
+    bottom:0px;
+    left:0px;
+    width:100%;
+    border-top:1px solid #d3d3d3;
+}
+
+footer .copyright {
+    text-align: right;
+    padding-right:10px;
+    padding-top:8px;
+    font-size:13px;
+    background:white;
+    margin-bottom:-3px;
+}
+
+/*.lesson {
+	width:80%;
+	padding:10px;
+	padding-left:30px;
+}*/
+
+.description {
+	opacity:.5;
+}
+
+h4 {
+	/*margin-top:0px;*/
+	margin-bottom:0px;
+}
+
+h3 {
+	opacity:.8;
+}

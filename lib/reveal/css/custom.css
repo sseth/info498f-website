@@ -1,0 +1,7 @@
+.fragment.visible h3, .fragment.visible h2{
+	opacity:.6 !important;
+}
+
+.fragment.visible.current-fragment h3, .fragment.visible.current-fragment h2{
+	opacity:1 !important;;
+}
